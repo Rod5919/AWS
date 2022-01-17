@@ -1,0 +1,28 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "Practice AWS using Spoty API, analysing the data in order to recommend songs or artist based on data obtained by an ETL.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rod5919/AWS.git"
+  },
+  "keywords": [
+    "ETL",
+    "Pipeline",
+    "Python",
+    "Node",
+    "AWS",
+    "Data"
+  ],
+  "author": "Rodrigo Fernandez, Xavier Rocabado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rod5919/AWS/issues"
+  },
+  "homepage": "https://github.com/Rod5919/AWS#readme"
+}
